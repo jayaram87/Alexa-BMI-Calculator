@@ -1,0 +1,31 @@
+{
+    "intents": [
+        {
+            "intent": "BmiCalculator",
+            "slots": [
+                {
+                    "name": "Weight",
+                    "type": "AMAZON.NUMBER"
+                },
+                {
+                    "name": "WeightType",
+                    "type": "MEASUREMENT"
+                },
+                {
+                    "name": "Height",
+                    "type": "AMAZON.NUMBER"
+                },
+                {
+                    "name": "HeightMeasurement",
+                    "type": "MEASUREMENT"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"    
+        }
+    ]
+}

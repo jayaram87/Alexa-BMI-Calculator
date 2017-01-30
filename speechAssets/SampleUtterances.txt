@@ -1,0 +1,8 @@
+BmiCalculator tell me my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
+BmiCalculator give me my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
+BmiCalculator whats is my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
+BmiCalculator calculate my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
+
+AMAZON.HelpIntent provided information is invalid
+
+AMAZON.StopIntent thank you
