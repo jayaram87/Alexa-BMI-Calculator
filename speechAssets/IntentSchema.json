@@ -1,7 +1,7 @@
 {
     "intents": [
         {
-            "intent": "BmiCalculator",
+            "intent": "BmiCalculatorIntent",
             "slots": [
                 {
                     "name": "Weight",
@@ -12,12 +12,12 @@
                     "type": "MEASUREMENT"
                 },
                 {
-                    "name": "Height",
+                    "name": "HeightFeet",
                     "type": "AMAZON.NUMBER"
                 },
                 {
-                    "name": "HeightMeasurement",
-                    "type": "MEASUREMENT"
+                    "name": "HeightInches",
+                    "type": "AMAZON.NUMBER"
                 }
             ]
         },

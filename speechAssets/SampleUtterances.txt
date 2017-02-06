@@ -1,8 +1,4 @@
-BmiCalculator tell me my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
-BmiCalculator give me my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
-BmiCalculator whats is my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
-BmiCalculator calculate my BMI for {Weight} {WeightType} and {Height} {HeightMeasurement}
-
-AMAZON.HelpIntent provided information is invalid
-
-AMAZON.StopIntent thank you
+BmiCalculatorIntent tell me my BMI for {Weight} {WeightType} and {HeightFeet} Feet and {HeightInches} Inches
+BmiCalculatorIntent give me my BMI for {Weight} {WeightType} and {HeightFeet} Feet and {HeightInches} Inches
+BmiCalculatorIntent whats is my BMI for {Weight} {WeightType} and {HeightFeet} Feet and {HeightInches} Inches
+BmiCalculatorIntent calculate my BMI for {Weight} {WeightType} and {HeightFeet} Feet and {HeightInches} Inches
